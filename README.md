@@ -8,3 +8,5 @@ Tornadoes are nature"s most violent storms. Spawned from powerful thunderstorms,
 Some tornadoes are clearly visible, while rain or nearby low-hanging clouds obscure others. Tornadoes develop extremely rapidly, and may dissipate just a quickly. Most tornadoes are on the ground for less than 15 minutes.
 
 Before a tornado hits, the wind may die down and the air may become very still. A cloud of debris can mark the location of a tornado even if a funnel is not visible. Tornadoes generally occur near the trailing edge of a thunderstorm. It is not uncommon to see clear, sunlit skies behind a tornado. 
+
+credits:https://www.weather.gov/phi/TornadoDefinition#
